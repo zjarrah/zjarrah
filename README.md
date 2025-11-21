@@ -7,7 +7,6 @@
 
 
 * 🌍  I'm based in Lebanon 🇱🇧
-* ✉️  You can contact me at [zaher.jarrah@outlook.com](mailto:zaher.jarrah@outlook.com)
 * 🧠  I'm currently learning PHP
 
 
